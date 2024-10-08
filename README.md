@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Willichi7
 - 👀 I’m interested in ...backend programming 
-- 🌱 I’m currently learning ...react, firebase and javascript
+- 🌱 I’m currently learning ...Docker, nodeJs,  and javascript, cloud computing
 - 💞️ I’m looking to collaborate on ...projects of different sort
-- 📫 How to reach me ...
+- 📫 How to reach me ... @Willichi7
 - 😄 Pronouns: ...williamson
 - ⚡ Fun fact: ...i love football and coding
 
